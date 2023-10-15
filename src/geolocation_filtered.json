@@ -1,0 +1,1364 @@
+{
+    "Brock University": {
+        "latitude": "43.1177354",
+        "longitude": "-79.2498568",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "Carleton University": {
+        "latitude": "45.3858581",
+        "longitude": "-75.6950041",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "Concordia University": {
+        "latitude": "45.495244",
+        "longitude": "-73.5784993",
+        "state": "QC",
+        "country_code": "CA"
+    },
+    "Dalhousie University": {
+        "latitude": "44.6375234",
+        "longitude": "-63.5872235",
+        "state": "NS",
+        "country_code": "CA"
+    },
+    "ETS Montreal": {
+        "latitude": "45.4945354",
+        "longitude": "-73.5628851",
+        "state": "QC",
+        "country_code": "CA"
+    },
+    "HEC Montreal": {
+        "latitude": "45.5036114",
+        "longitude": "-73.6212922",
+        "state": "QC",
+        "country_code": "CA"
+    },
+    "McGill University": {
+        "latitude": "45.5069177",
+        "longitude": "-73.5791163",
+        "state": "QC",
+        "country_code": "CA"
+    },
+    "McMaster University": {
+        "latitude": "43.2639397",
+        "longitude": "-79.9178252",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "Memorial University of Newfoundland": {
+        "latitude": "47.5733341",
+        "longitude": "-52.7333066",
+        "state": "NL",
+        "country_code": "CA"
+    },
+    "Ontario Tech University": {
+        "latitude": "43.9483311",
+        "longitude": "-78.8981668",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "Polytechnique Montreal": {
+        "latitude": "45.5045875",
+        "longitude": "-73.612996",
+        "state": "QC",
+        "country_code": "CA"
+    },
+    "Royal Military College of Canada": {
+        "latitude": "44.2317354",
+        "longitude": "-76.4681093",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "Simon Fraser University": {
+        "latitude": "49.2767096",
+        "longitude": "-122.917803",
+        "state": "BC",
+        "country_code": "CA"
+    },
+    "Toronto Metropolitan University": {
+        "latitude": "43.6583244",
+        "longitude": "-79.3789252",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "University of Alberta": {
+        "latitude": "53.52682",
+        "longitude": "-113.5244937",
+        "state": "AB",
+        "country_code": "CA"
+    },
+    "University of British Columbia": {
+        "latitude": "49.2578314",
+        "longitude": "-123.246242",
+        "state": "BC",
+        "country_code": "CA"
+    },
+    "University of Calgary": {
+        "latitude": "51.0783651",
+        "longitude": "-114.1283072",
+        "state": "AB",
+        "country_code": "CA"
+    },
+    "University of Guelph": {
+        "latitude": "43.535193",
+        "longitude": "-80.2189423",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "University of Manitoba": {
+        "latitude": "49.8091536",
+        "longitude": "-97.1330418",
+        "state": "MB",
+        "country_code": "CA"
+    },
+    "University of Montreal": {
+        "latitude": "45.5069177",
+        "longitude": "-73.5791163",
+        "state": "QC",
+        "country_code": "CA"
+    },
+    "University of New Brunswick": {
+        "latitude": "45.9455303",
+        "longitude": "-66.6401831",
+        "state": "NB",
+        "country_code": "CA"
+    },
+    "University of Ottawa": {
+        "latitude": "45.422527",
+        "longitude": "-75.6833904",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "University of Regina": {
+        "latitude": "50.4152275",
+        "longitude": "-104.589",
+        "state": "SK",
+        "country_code": "CA"
+    },
+    "University of Saskatchewan": {
+        "latitude": "52.1344194",
+        "longitude": "-106.6277768",
+        "state": "SK",
+        "country_code": "CA"
+    },
+    "University of Toronto": {
+        "latitude": "43.663462",
+        "longitude": "-79.3977597",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "University of Victoria": {
+        "latitude": "48.4697748",
+        "longitude": "-123.3169956",
+        "state": "BC",
+        "country_code": "CA"
+    },
+    "University of Waterloo": {
+        "latitude": "43.4701994",
+        "longitude": "-80.5452429",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "University of Windsor": {
+        "latitude": "42.3052014",
+        "longitude": "-83.0664914",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "Universit\u00e9 Laval": {
+        "latitude": "45.56995",
+        "longitude": "-73.692",
+        "state": "QC",
+        "country_code": "CA"
+    },
+    "Universit\u00e9 de Sherbrooke": {
+        "latitude": "45.40008",
+        "longitude": "-71.89908",
+        "state": "QC",
+        "country_code": "CA"
+    },
+    "Western University": {
+        "latitude": "43.0054234",
+        "longitude": "-81.274801",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "York University": {
+        "latitude": "43.7741755",
+        "longitude": "-79.504749",
+        "state": "ON",
+        "country_code": "CA"
+    },
+    "University of Kentucky": {
+        "latitude": "38.027038",
+        "longitude": "-84.5048374",
+        "state": "KY",
+        "country_code": "US"
+    },
+    "Boston University": {
+        "latitude": "42.3501894",
+        "longitude": "-71.1007099",
+        "state": "MA",
+        "country_code": "US"
+    },
+    "University of Washington": {
+        "latitude": "47.6543466",
+        "longitude": "-122.3080606",
+        "state": "WA",
+        "country_code": "US"
+    },
+    "George Mason University": {
+        "latitude": "38.8313333",
+        "longitude": "-77.3079884",
+        "state": "VA",
+        "country_code": "US"
+    },
+    "Colorado State University": {
+        "latitude": "40.5706567",
+        "longitude": "-105.0853995",
+        "state": "CO",
+        "country_code": "US"
+    },
+    "Iowa State University": {
+        "latitude": "42.0279046",
+        "longitude": "-93.644613",
+        "state": "IA",
+        "country_code": "US"
+    },
+    "University of Illinois at Chicago": {
+        "latitude": "41.8689223",
+        "longitude": "-87.6485848",
+        "state": "IL",
+        "country_code": "US"
+    },
+    "Duke University": {
+        "latitude": "36.0001557",
+        "longitude": "-78.9442297",
+        "state": "NC",
+        "country_code": "US"
+    },
+    "Florida International University": {
+        "latitude": "25.7553898",
+        "longitude": "-80.3762833",
+        "state": "FL",
+        "country_code": "US"
+    },
+    "Oklahoma State University": {
+        "latitude": "36.1284768",
+        "longitude": "-97.0839806",
+        "state": "OK",
+        "country_code": "US"
+    },
+    "UCCS": {
+        "latitude": "38.8924932",
+        "longitude": "-104.7996978",
+        "state": "CO",
+        "country_code": "US"
+    },
+    "University of Maryland - College Park": {
+        "latitude": "38.990547",
+        "longitude": "-76.937251",
+        "state": "MD",
+        "country_code": "US"
+    },
+    "Northeastern University": {
+        "latitude": "42.3390301",
+        "longitude": "-71.0879129",
+        "state": "MA",
+        "country_code": "US"
+    },
+    "Rutgers University": {
+        "latitude": "40.740687",
+        "longitude": "-74.174889",
+        "state": "NJ",
+        "country_code": "US"
+    },
+    "Washington University in St. Louis": {
+        "latitude": "38.62727",
+        "longitude": "-90.19789",
+        "state": "MO",
+        "country_code": "US"
+    },
+    "University of Colorado Boulder": {
+        "latitude": "40.0069373",
+        "longitude": "-105.2663866",
+        "state": "CO",
+        "country_code": "US"
+    },
+    "University of Notre Dame": {
+        "latitude": "41.7045677",
+        "longitude": "-86.2382203",
+        "state": "IN",
+        "country_code": "US"
+    },
+    "University of Chicago": {
+        "latitude": "41.7913968",
+        "longitude": "-87.6008439",
+        "state": "IL",
+        "country_code": "US"
+    },
+    "University of Pennsylvania": {
+        "latitude": "39.9493382",
+        "longitude": "-75.189644",
+        "state": "PA",
+        "country_code": "US"
+    },
+    "Yale University": {
+        "latitude": "41.2571305",
+        "longitude": "-72.9896696",
+        "state": "CT",
+        "country_code": "US"
+    },
+    "Univ. of California - San Diego": {
+        "latitude": "32.8792438",
+        "longitude": "-117.2311247",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "Stanford University": {
+        "latitude": "37.4313138",
+        "longitude": "-122.1693654",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "University of Rochester": {
+        "latitude": "43.1226985",
+        "longitude": "-77.6307297",
+        "state": "NY",
+        "country_code": "US"
+    },
+    "University of Iowa": {
+        "latitude": "41.6311024",
+        "longitude": "-91.540752",
+        "state": "IA",
+        "country_code": "US"
+    },
+    "Princeton University": {
+        "latitude": "40.3386752",
+        "longitude": "-74.6583655",
+        "state": "NJ",
+        "country_code": "US"
+    },
+    "Carnegie Mellon University": {
+        "latitude": "40.4441897",
+        "longitude": "-79.9427192",
+        "state": "PA",
+        "country_code": "US"
+    },
+    "Pennsylvania State University": {
+        "latitude": "40.8025835",
+        "longitude": "-77.8559383",
+        "state": "PA",
+        "country_code": "US"
+    },
+    "CUNY": {
+        "latitude": "40.7485188",
+        "longitude": "-73.9836393",
+        "state": "NY",
+        "country_code": "US"
+    },
+    "University of Connecticut": {
+        "latitude": "41.8217576",
+        "longitude": "-72.2427754",
+        "state": "CT",
+        "country_code": "US"
+    },
+    "New Mexico Tech": {
+        "latitude": "34.0662339",
+        "longitude": "-106.9110595",
+        "state": "NM",
+        "country_code": "US"
+    },
+    "University of Florida": {
+        "latitude": "29.6328784",
+        "longitude": "-82.3490133",
+        "state": "FL",
+        "country_code": "US"
+    },
+    "Michigan State University": {
+        "latitude": "42.7024238",
+        "longitude": "-84.4803284",
+        "state": "MI",
+        "country_code": "US"
+    },
+    "George Washington University": {
+        "latitude": "38.8998938",
+        "longitude": "-77.0474483",
+        "state": "DC",
+        "country_code": "US"
+    },
+    "Texas Tech University": {
+        "latitude": "33.5937525",
+        "longitude": "-101.8995955",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "Augusta University": {
+        "latitude": "33.4693345",
+        "longitude": "-81.988562",
+        "state": "GA",
+        "country_code": "US"
+    },
+    "University of New Orleans": {
+        "latitude": "30.0283526",
+        "longitude": "-90.0668428",
+        "state": "LA",
+        "country_code": "US"
+    },
+    "University of New Mexico": {
+        "latitude": "35.0866327",
+        "longitude": "-106.6202094",
+        "state": "NM",
+        "country_code": "US"
+    },
+    "Texas A&M University": {
+        "latitude": "30.6108618",
+        "longitude": "-96.3520606",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "Cornell University": {
+        "latitude": "42.4529076",
+        "longitude": "-76.4800842",
+        "state": "NY",
+        "country_code": "US"
+    },
+    "University of Central Florida": {
+        "latitude": "28.5989975",
+        "longitude": "-81.197125",
+        "state": "FL",
+        "country_code": "US"
+    },
+    "Florida Atlantic University": {
+        "latitude": "26.1194037",
+        "longitude": "-80.1416919",
+        "state": "FL",
+        "country_code": "US"
+    },
+    "University of Minnesota": {
+        "latitude": "48.3785292",
+        "longitude": "-92.8311659",
+        "state": "MN",
+        "country_code": "US"
+    },
+    "Vanderbilt University": {
+        "latitude": "36.1438011",
+        "longitude": "-86.8028189",
+        "state": "TN",
+        "country_code": "US"
+    },
+    "Johns Hopkins University": {
+        "latitude": "39.3302022",
+        "longitude": "-76.6218536",
+        "state": "MD",
+        "country_code": "US"
+    },
+    "Univ. of California - Santa Cruz": {
+        "latitude": "36.9924759",
+        "longitude": "-122.058858",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "Northern Arizona University": {
+        "latitude": "35.1834428",
+        "longitude": "-111.6550004",
+        "state": "AZ",
+        "country_code": "US"
+    },
+    "Wichita State University": {
+        "latitude": "37.7193429",
+        "longitude": "-97.2898878",
+        "state": "KS",
+        "country_code": "US"
+    },
+    "Wayne State University": {
+        "latitude": "42.3572051",
+        "longitude": "-83.0709498",
+        "state": "MI",
+        "country_code": "US"
+    },
+    "Univ. of California - Los Angeles": {
+        "latitude": "34.0708777",
+        "longitude": "-118.4468507",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "Georgia Institute of Technology": {
+        "latitude": "33.776033",
+        "longitude": "-84.3988409",
+        "state": "GA",
+        "country_code": "US"
+    },
+    "Univ. of Maryland - Baltimore County": {
+        "latitude": "39.252377",
+        "longitude": "-76.7089181",
+        "state": "MD",
+        "country_code": "US"
+    },
+    "Univ. of Illinois at Urbana-Champaign": {
+        "latitude": "40.0991183",
+        "longitude": "-88.2385158",
+        "state": "IL",
+        "country_code": "US"
+    },
+    "Massachusetts Institute of Technology": {
+        "latitude": "42.3582529",
+        "longitude": "-71.0966272",
+        "state": "MA",
+        "country_code": "US"
+    },
+    "Arizona State University": {
+        "latitude": "33.4213174",
+        "longitude": "-111.9331593",
+        "state": "AZ",
+        "country_code": "US"
+    },
+    "Washington State University": {
+        "latitude": "46.7337724",
+        "longitude": "-117.1497607",
+        "state": "WA",
+        "country_code": "US"
+    },
+    "University of Pittsburgh": {
+        "latitude": "40.444153",
+        "longitude": "-79.962461",
+        "state": "PA",
+        "country_code": "US"
+    },
+    "University of Massachusetts Amherst": {
+        "latitude": "42.3869382",
+        "longitude": "-72.5299148",
+        "state": "MA",
+        "country_code": "US"
+    },
+    "University of Texas at Austin": {
+        "latitude": "30.2852198",
+        "longitude": "-97.7338927",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "DePaul University": {
+        "latitude": "41.92402",
+        "longitude": "-87.6547273",
+        "state": "IL",
+        "country_code": "US"
+    },
+    "California Institute of Technology": {
+        "latitude": "34.1370138",
+        "longitude": "-118.1252882",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "University of Delaware": {
+        "latitude": "39.6803338",
+        "longitude": "-75.7530749",
+        "state": "DE",
+        "country_code": "US"
+    },
+    "University of Louisville": {
+        "latitude": "38.2133223",
+        "longitude": "-85.7577075",
+        "state": "KY",
+        "country_code": "US"
+    },
+    "Univ. of California - Irvine": {
+        "latitude": "33.6431901",
+        "longitude": "-117.8401649",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "University of Utah": {
+        "latitude": "40.7628137",
+        "longitude": "-111.8368719",
+        "state": "UT",
+        "country_code": "US"
+    },
+    "Univ. of California - Berkeley": {
+        "latitude": "37.8686579",
+        "longitude": "-122.2559343",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "Univ. of California - Davis": {
+        "latitude": "38.5217429",
+        "longitude": "-121.7522494",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "Binghamton University": {
+        "latitude": "42.0877998",
+        "longitude": "-75.9706607",
+        "state": "NY",
+        "country_code": "US"
+    },
+    "University of Wisconsin - Milwaukee": {
+        "latitude": "43.0779798",
+        "longitude": "-87.8818237",
+        "state": "WI",
+        "country_code": "US"
+    },
+    "Virginia Tech": {
+        "latitude": "37.2219268",
+        "longitude": "-80.4272818",
+        "state": "VA",
+        "country_code": "US"
+    },
+    "Stevens Institute of Technology": {
+        "latitude": "40.7448096",
+        "longitude": "-74.0252392",
+        "state": "NJ",
+        "country_code": "US"
+    },
+    "University of South Florida": {
+        "latitude": "28.0599999",
+        "longitude": "-82.4138362",
+        "state": "FL",
+        "country_code": "US"
+    },
+    "Rochester Institute of Technology": {
+        "latitude": "43.0824883",
+        "longitude": "-77.672911",
+        "state": "NY",
+        "country_code": "US"
+    },
+    "College of William and Mary": {
+        "latitude": "37.2690846",
+        "longitude": "-76.7227369",
+        "state": "VA",
+        "country_code": "US"
+    },
+    "West Virginia University": {
+        "latitude": "39.634715",
+        "longitude": "-79.9542536",
+        "state": "WV",
+        "country_code": "US"
+    },
+    "Northwestern University": {
+        "latitude": "42.0551164",
+        "longitude": "-87.6758111",
+        "state": "IL",
+        "country_code": "US"
+    },
+    "Univ. of California - Riverside": {
+        "latitude": "33.9637058",
+        "longitude": "-117.3397807",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "UNC - Charlotte": {
+        "latitude": "35.3107104",
+        "longitude": "-80.745231",
+        "state": "NC",
+        "country_code": "US"
+    },
+    "Purdue University": {
+        "latitude": "40.4300272",
+        "longitude": "-86.9264179",
+        "state": "IN",
+        "country_code": "US"
+    },
+    "Univ. of California - Merced": {
+        "latitude": "37.3651866",
+        "longitude": "-120.4227304",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "University at Buffalo": {
+        "latitude": "43.0007502",
+        "longitude": "-78.7887138",
+        "state": "NY",
+        "country_code": "US"
+    },
+    "The University of Alabama": {
+        "latitude": "33.20944",
+        "longitude": "-87.54149",
+        "state": "AL",
+        "country_code": "US"
+    },
+    "University of Virginia": {
+        "latitude": "38.0410576",
+        "longitude": "-78.5054996",
+        "state": "VA",
+        "country_code": "US"
+    },
+    "University of Southern California": {
+        "latitude": "34.0218833",
+        "longitude": "-118.2858666",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "Western Michigan University": {
+        "latitude": "42.2833375",
+        "longitude": "-85.6095067",
+        "state": "MI",
+        "country_code": "US"
+    },
+    "University of Nevada Las Vegas": {
+        "latitude": "36.0994481",
+        "longitude": "-115.1442205",
+        "state": "NV",
+        "country_code": "US"
+    },
+    "Rice University": {
+        "latitude": "29.7167915",
+        "longitude": "-95.4047811",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "Auburn University": {
+        "latitude": "32.5919877",
+        "longitude": "-85.4959487",
+        "state": "AL",
+        "country_code": "US"
+    },
+    "University of Michigan": {
+        "latitude": "42.2942142",
+        "longitude": "-83.7100389",
+        "state": "MI",
+        "country_code": "US"
+    },
+    "University of Vermont": {
+        "latitude": "44.4737365",
+        "longitude": "-73.1941468",
+        "state": "VT",
+        "country_code": "US"
+    },
+    "Air Force Institute of Technology": {
+        "latitude": "39.7823735",
+        "longitude": "-84.0825729",
+        "state": "OH",
+        "country_code": "US"
+    },
+    "Oregon State University": {
+        "latitude": "44.5630559",
+        "longitude": "-123.2839236",
+        "state": "OR",
+        "country_code": "US"
+    },
+    "University of Alabama - Birmingham": {
+        "latitude": "33.5016153",
+        "longitude": "-86.8060476",
+        "state": "AL",
+        "country_code": "US"
+    },
+    "University of Houston": {
+        "latitude": "29.7207902",
+        "longitude": "-95.3440627",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "Virginia Commonwealth University": {
+        "latitude": "37.5461246",
+        "longitude": "-77.4540609",
+        "state": "VA",
+        "country_code": "US"
+    },
+    "University of Wisconsin - Madison": {
+        "latitude": "43.0802745",
+        "longitude": "-89.4309587",
+        "state": "WI",
+        "country_code": "US"
+    },
+    "Dartmouth College": {
+        "latitude": "43.7052673",
+        "longitude": "-72.2905229",
+        "state": "NH",
+        "country_code": "US"
+    },
+    "North Carolina State University": {
+        "latitude": "35.7714749",
+        "longitude": "-78.6741935",
+        "state": "NC",
+        "country_code": "US"
+    },
+    "Indiana University": {
+        "latitude": "41.7045677",
+        "longitude": "-86.2382203",
+        "state": "IN",
+        "country_code": "US"
+    },
+    "University of Kansas": {
+        "latitude": "38.9534918",
+        "longitude": "-95.2630888",
+        "state": "KS",
+        "country_code": "US"
+    },
+    "Emory University": {
+        "latitude": "33.8004546",
+        "longitude": "-84.3172378",
+        "state": "GA",
+        "country_code": "US"
+    },
+    "Georgia State University": {
+        "latitude": "33.7535889",
+        "longitude": "-84.3854209",
+        "state": "GA",
+        "country_code": "US"
+    },
+    "Georgetown University": {
+        "latitude": "38.9089393",
+        "longitude": "-77.0745796",
+        "state": "DC",
+        "country_code": "US"
+    },
+    "Clemson University": {
+        "latitude": "34.6686915",
+        "longitude": "-82.8374348",
+        "state": "SC",
+        "country_code": "US"
+    },
+    "OHSU": {
+        "latitude": "45.5193878",
+        "longitude": "-122.9781992",
+        "state": "OR",
+        "country_code": "US"
+    },
+    "Towson University": {
+        "latitude": "39.3896391",
+        "longitude": "-76.6158847",
+        "state": "MD",
+        "country_code": "US"
+    },
+    "University of Arkansas": {
+        "latitude": "36.0935238",
+        "longitude": "-94.1770898",
+        "state": "AR",
+        "country_code": "US"
+    },
+    "University of North Carolina": {
+        "latitude": "35.9050353",
+        "longitude": "-79.0477533",
+        "state": "NC",
+        "country_code": "US"
+    },
+    "Columbia University": {
+        "latitude": "40.8176657",
+        "longitude": "-73.9585144",
+        "state": "NY",
+        "country_code": "US"
+    },
+    "NJIT": {
+        "latitude": "40.7426187",
+        "longitude": "-74.1810968",
+        "state": "NJ",
+        "country_code": "US"
+    },
+    "University of Cincinnati": {
+        "latitude": "39.1318613",
+        "longitude": "-84.515762",
+        "state": "OH",
+        "country_code": "US"
+    },
+    "Michigan Technological University": {
+        "latitude": "47.1099114",
+        "longitude": "-88.5511513",
+        "state": "MI",
+        "country_code": "US"
+    },
+    "University of Texas at San Antonio": {
+        "latitude": "29.583331",
+        "longitude": "-98.6194451",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "Drexel University": {
+        "latitude": "39.9574",
+        "longitude": "-75.1902666",
+        "state": "PA",
+        "country_code": "US"
+    },
+    "University of Nevada": {
+        "latitude": "36.0994481",
+        "longitude": "-115.1442205",
+        "state": "NV",
+        "country_code": "US"
+    },
+    "New York University": {
+        "latitude": "40.7292532",
+        "longitude": "-73.9962539",
+        "state": "NY",
+        "country_code": "US"
+    },
+    "University of Oregon": {
+        "latitude": "44.0445515",
+        "longitude": "-123.071736",
+        "state": "OR",
+        "country_code": "US"
+    },
+    "Stony Brook University": {
+        "latitude": "40.9098832",
+        "longitude": "-73.1215495",
+        "state": "NY",
+        "country_code": "US"
+    },
+    "University of Texas at Arlington": {
+        "latitude": "32.7284713",
+        "longitude": "-97.1120213",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "University of Arizona": {
+        "latitude": "33.4520517",
+        "longitude": "-112.0636789",
+        "state": "AZ",
+        "country_code": "US"
+    },
+    "Tufts University": {
+        "latitude": "42.4064913",
+        "longitude": "-71.1180073",
+        "state": "MA",
+        "country_code": "US"
+    },
+    "University of Tennessee": {
+        "latitude": "35.9516352",
+        "longitude": "-83.9308819",
+        "state": "TN",
+        "country_code": "US"
+    },
+    "Brigham Young University": {
+        "latitude": "40.2550111",
+        "longitude": "-111.6496826",
+        "state": "UT",
+        "country_code": "US"
+    },
+    "Univ. of California - Santa Barbara": {
+        "latitude": "34.4146025",
+        "longitude": "-119.84581",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "Portland State University": {
+        "latitude": "45.5118121",
+        "longitude": "-122.68493",
+        "state": "OR",
+        "country_code": "US"
+    },
+    "University of Southern Mississippi": {
+        "latitude": "31.3286452",
+        "longitude": "-89.3367312",
+        "state": "MS",
+        "country_code": "US"
+    },
+    "University of Louisiana - Lafayette": {
+        "latitude": "30.21929",
+        "longitude": "-92.041383",
+        "state": "LA",
+        "country_code": "US"
+    },
+    "Boise State University": {
+        "latitude": "43.6041412",
+        "longitude": "-116.2033059",
+        "state": "ID",
+        "country_code": "US"
+    },
+    "University of South Carolina": {
+        "latitude": "33.9970244",
+        "longitude": "-81.0272443",
+        "state": "SC",
+        "country_code": "US"
+    },
+    "University of Wyoming": {
+        "latitude": "41.3142264",
+        "longitude": "-105.5643232",
+        "state": "WY",
+        "country_code": "US"
+    },
+    "Brown University": {
+        "latitude": "41.8186395",
+        "longitude": "-71.4088009",
+        "state": "RI",
+        "country_code": "US"
+    },
+    "University of Oklahoma": {
+        "latitude": "35.1959878",
+        "longitude": "-97.4457083",
+        "state": "OK",
+        "country_code": "US"
+    },
+    "Case Western Reserve University": {
+        "latitude": "41.5013869",
+        "longitude": "-81.6007022",
+        "state": "OH",
+        "country_code": "US"
+    },
+    "Florida State University": {
+        "latitude": "30.44236",
+        "longitude": "-84.2974787",
+        "state": "FL",
+        "country_code": "US"
+    },
+    "Rensselaer Polytechnic Institute": {
+        "latitude": "42.729922",
+        "longitude": "-73.6795398",
+        "state": "NY",
+        "country_code": "US"
+    },
+    "Cleveland State University": {
+        "latitude": "41.5021445",
+        "longitude": "-81.675167",
+        "state": "OH",
+        "country_code": "US"
+    },
+    "Louisiana State University": {
+        "latitude": "30.4057618",
+        "longitude": "-91.1859745",
+        "state": "LA",
+        "country_code": "US"
+    },
+    "University of Texas at Dallas": {
+        "latitude": "32.9875855",
+        "longitude": "-96.7497693",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "Syracuse University": {
+        "latitude": "43.0171129",
+        "longitude": "-76.1185536",
+        "state": "NY",
+        "country_code": "US"
+    },
+    "IUPUI": {
+        "latitude": "39.7742011",
+        "longitude": "-86.1750011",
+        "state": "IN",
+        "country_code": "US"
+    },
+    "Claremont Graduate University": {
+        "latitude": "34.1103852",
+        "longitude": "-117.7175884",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "Ohio State University": {
+        "latitude": "40.7988105",
+        "longitude": "-82.5782294",
+        "state": "OH",
+        "country_code": "US"
+    },
+    "Old Dominion University": {
+        "latitude": "36.8862699",
+        "longitude": "-76.3097248",
+        "state": "VA",
+        "country_code": "US"
+    },
+    "Temple University": {
+        "latitude": "39.981188",
+        "longitude": "-75.1562828",
+        "state": "PA",
+        "country_code": "US"
+    },
+    "Mississippi State University": {
+        "latitude": "33.4386876",
+        "longitude": "-88.7943232",
+        "state": "MS",
+        "country_code": "US"
+    },
+    "Kent State University": {
+        "latitude": "41.1443582",
+        "longitude": "-81.3398299",
+        "state": "OH",
+        "country_code": "US"
+    },
+    "University of Massachusetts Lowell": {
+        "latitude": "42.6519097",
+        "longitude": "-71.3173628",
+        "state": "MA",
+        "country_code": "US"
+    },
+    "University of Texas - El Paso": {
+        "latitude": "31.7757047",
+        "longitude": "-106.5062875",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "Texas State University": {
+        "latitude": "29.8910941",
+        "longitude": "-97.9376839",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "University of Denver": {
+        "latitude": "39.6783136",
+        "longitude": "-104.9625092",
+        "state": "CO",
+        "country_code": "US"
+    },
+    "University of Hawaii at Manoa": {
+        "latitude": "21.2982795",
+        "longitude": "-157.8186936",
+        "state": "HI",
+        "country_code": "US"
+    },
+    "Brandeis University": {
+        "latitude": "42.3665095",
+        "longitude": "-71.2580196",
+        "state": "MA",
+        "country_code": "US"
+    },
+    "Oakland University": {
+        "latitude": "42.6666333",
+        "longitude": "-83.2065575",
+        "state": "MI",
+        "country_code": "US"
+    },
+    "University of Michigan-Dearborn": {
+        "latitude": "42.3172294",
+        "longitude": "-83.2319394",
+        "state": "MI",
+        "country_code": "US"
+    },
+    "Lehigh University": {
+        "latitude": "40.6068028",
+        "longitude": "-75.3782488",
+        "state": "PA",
+        "country_code": "US"
+    },
+    "University of Missouri - Kansas City": {
+        "latitude": "39.0336761",
+        "longitude": "-94.5780753",
+        "state": "MO",
+        "country_code": "US"
+    },
+    "Indiana State University": {
+        "latitude": "39.4703727",
+        "longitude": "-87.4081968",
+        "state": "IN",
+        "country_code": "US"
+    },
+    "Missouri S&T": {
+        "latitude": "37.952894",
+        "longitude": "-91.773858",
+        "state": "MO",
+        "country_code": "US"
+    },
+    "Harvard University": {
+        "latitude": "42.3679086",
+        "longitude": "-71.1267824",
+        "state": "MA",
+        "country_code": "US"
+    },
+    "Naval Postgraduate School": {
+        "latitude": "36.596924",
+        "longitude": "-121.8732706",
+        "state": "CA",
+        "country_code": "US"
+    },
+    "University of Nebraska": {
+        "latitude": "40.8229219",
+        "longitude": "-96.7040584",
+        "state": "NE",
+        "country_code": "US"
+    },
+    "University of North Texas": {
+        "latitude": "33.2098926",
+        "longitude": "-97.1514762",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "Tulane University": {
+        "latitude": "29.9412195",
+        "longitude": "-90.1201009",
+        "state": "LA",
+        "country_code": "US"
+    },
+    "Kansas State University": {
+        "latitude": "39.20883",
+        "longitude": "-96.5884512",
+        "state": "KS",
+        "country_code": "US"
+    },
+    "Ohio University": {
+        "latitude": "39.3230041",
+        "longitude": "-82.1026768",
+        "state": "OH",
+        "country_code": "US"
+    },
+    "TTI Chicago": {
+        "latitude": "41.85003",
+        "longitude": "-87.65005",
+        "state": "IL",
+        "country_code": "US"
+    },
+    "University of Idaho": {
+        "latitude": "46.7237978",
+        "longitude": "-117.020439",
+        "state": "ID",
+        "country_code": "US"
+    },
+    "University of Nebraska - Omaha": {
+        "latitude": "41.2577933",
+        "longitude": "-96.0104971",
+        "state": "NE",
+        "country_code": "US"
+    },
+    "Louisiana Tech University": {
+        "latitude": "32.5264824",
+        "longitude": "-92.6478196",
+        "state": "LA",
+        "country_code": "US"
+    },
+    "Worcester Polytechnic Institute": {
+        "latitude": "42.274315",
+        "longitude": "-71.8084567",
+        "state": "MA",
+        "country_code": "US"
+    },
+    "University of Massachusetts Boston": {
+        "latitude": "42.314068",
+        "longitude": "-71.0387132",
+        "state": "MA",
+        "country_code": "US"
+    },
+    "New Mexico State University": {
+        "latitude": "32.2729032",
+        "longitude": "-106.7434927",
+        "state": "NM",
+        "country_code": "US"
+    },
+    "Colorado School of Mines": {
+        "latitude": "39.7386338",
+        "longitude": "-105.2246389",
+        "state": "CO",
+        "country_code": "US"
+    },
+    "Baylor University": {
+        "latitude": "31.550434",
+        "longitude": "-97.1102906",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "Illinois Institute of Technology": {
+        "latitude": "41.8352554",
+        "longitude": "-87.6264362",
+        "state": "IL",
+        "country_code": "US"
+    },
+    "Montana State University": {
+        "latitude": "45.6638188",
+        "longitude": "-111.0793057",
+        "state": "MT",
+        "country_code": "US"
+    },
+    "University of Colorado - Denver": {
+        "latitude": "39.7428324",
+        "longitude": "-105.0059152",
+        "state": "CO",
+        "country_code": "US"
+    },
+    "University of Tulsa": {
+        "latitude": "36.1523306",
+        "longitude": "-95.9459602",
+        "state": "OK",
+        "country_code": "US"
+    },
+    "Missouri University of Technology": {
+        "latitude": "37.952894",
+        "longitude": "-91.773858",
+        "state": "MO",
+        "country_code": "US"
+    },
+    "University of Miami": {
+        "latitude": "25.7172724",
+        "longitude": "-80.2787069",
+        "state": "FL",
+        "country_code": "US"
+    },
+    "University of Mississippi": {
+        "latitude": "34.3646125",
+        "longitude": "-89.5396349",
+        "state": "MS",
+        "country_code": "US"
+    },
+    "Nova Southeastern University": {
+        "latitude": "26.0806806",
+        "longitude": "-80.2505161",
+        "state": "FL",
+        "country_code": "US"
+    },
+    "University of Georgia": {
+        "latitude": "33.9404278",
+        "longitude": "-83.373049",
+        "state": "GA",
+        "country_code": "US"
+    },
+    "University of Missouri": {
+        "latitude": "38.9364147",
+        "longitude": "-92.329703",
+        "state": "MO",
+        "country_code": "US"
+    },
+    "University of Arkansas - Little Rock": {
+        "latitude": "34.7482467",
+        "longitude": "-92.3198889",
+        "state": "AR",
+        "country_code": "US"
+    },
+    "LIU Post": {
+        "latitude": "53.9592562",
+        "longitude": "-166.5918139",
+        "state": "AK",
+        "country_code": "US"
+    },
+    "UNC - Greensboro": {
+        "latitude": "36.0679595",
+        "longitude": "-79.8103669",
+        "state": "NC",
+        "country_code": "US"
+    },
+    "University of New Hampshire": {
+        "latitude": "43.1382653",
+        "longitude": "-70.9323817",
+        "state": "NH",
+        "country_code": "US"
+    },
+    "Utah State University": {
+        "latitude": "41.7527021",
+        "longitude": "-111.8087342",
+        "state": "UT",
+        "country_code": "US"
+    },
+    "Southern Methodist University": {
+        "latitude": "32.8418011",
+        "longitude": "-96.7815281",
+        "state": "TX",
+        "country_code": "US"
+    },
+    "University of Alabama - Huntsville": {
+        "latitude": "34.7249108",
+        "longitude": "-86.640491",
+        "state": "AL",
+        "country_code": "US"
+    },
+    "Florida Institute of Technology": {
+        "latitude": "28.064271",
+        "longitude": "-80.623004",
+        "state": "FL",
+        "country_code": "US"
+    },
+    "North Dakota State University": {
+        "latitude": "46.897155",
+        "longitude": "-96.8182654",
+        "state": "ND",
+        "country_code": "US"
+    },
+    "University of Memphis": {
+        "latitude": "35.1189387",
+        "longitude": "-89.9372196",
+        "state": "TN",
+        "country_code": "US"
+    },
+    "Boston College": {
+        "latitude": "42.3354481",
+        "longitude": "-71.1681386",
+        "state": "MA",
+        "country_code": "US"
+    },
+    "University of Maine": {
+        "latitude": "44.8991352",
+        "longitude": "-68.6663746",
+        "state": "ME",
+        "country_code": "US"
+    }
+}

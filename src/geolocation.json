@@ -1,0 +1,2283 @@
+{
+ "data" : [
+       "Aalborg University": {
+        "latitude": "57.015907",
+        "longitude": "9.9753082"
+    },
+    "Aalto University": {
+        "latitude": "60.1860789",
+        "longitude": "24.8281021"
+    },
+    "Aarhus University": {
+        "latitude": "56.1670905",
+        "longitude": "10.2026177"
+    },
+    "Aberystwyth University": {
+        "latitude": "52.4107358",
+        "longitude": "-4.052955"
+    },
+    "American University in Cairo": {
+        "latitude": "30.0192629",
+        "longitude": "31.5036428"
+    },
+    "American University of Beirut": {
+        "latitude": "33.9000264",
+        "longitude": "35.4823838"
+    },
+    "Ariel University": {
+        "latitude": "32.065377",
+        "longitude": "34.845842"
+    },
+    "Australian National University": {
+        "latitude": "-35.2812134",
+        "longitude": "149.1167789"
+    },
+    "BITS Pilani": {
+        "latitude": "17.547185",
+        "longitude": "78.572791"
+    },
+    "BITS Pilani-Goa": {
+        "latitude": "15.3910477",
+        "longitude": "73.8780016"
+    },
+    "BUET": {
+        "latitude": "23.7275171",
+        "longitude": "90.3910421"
+    },
+    "BUPT": {
+        "latitude": "39.9602014",
+        "longitude": "116.3519348"
+    },
+    "Bar-Ilan University": {
+        "latitude": "32.0693292",
+        "longitude": "34.8433434"
+    },
+    "Bauhaus University Weimar": {
+        "latitude": "50.9757133",
+        "longitude": "11.3301092"
+    },
+    "Beihang University": {
+        "latitude": "39.9809427",
+        "longitude": "116.3409787"
+    },
+    "Ben-Gurion University of the Negev": {
+        "latitude": "31.2631254",
+        "longitude": "34.8022385"
+    },
+    "Bielefeld University": {
+        "latitude": "52.0365422",
+        "longitude": "8.4901776"
+    },
+    "Bilkent University": {
+        "latitude": "39.870469",
+        "longitude": "32.7539193"
+    },
+    "Birkbeck University of London": {
+        "latitude": "51.5218449",
+        "longitude": "-0.1302155"
+    },
+    "Bocconi University": {
+        "latitude": "45.4497194",
+        "longitude": "9.1887103"
+    },
+    "Brock University": {
+        "latitude": "43.1177354",
+        "longitude": "-79.2498568"
+    },
+    "Brunel University London": {
+        "latitude": "51.5326092",
+        "longitude": "-0.4740499"
+    },
+    "Bundeswehr University Munich": {
+        "latitude": "48.0766312",
+        "longitude": "11.6359736"
+    },
+    "CISPA Helmholtz Center": {
+        "latitude": "49.2593545",
+        "longitude": "7.0509922"
+    },
+    "CMI": {
+        "latitude": "30.3121892",
+        "longitude": "78.0474883"
+    },
+    "CRIStAL": {
+        "latitude": "50.6070826",
+        "longitude": "3.1373468"
+    },
+    "CUHK (SZ)": {
+        "latitude": "22.69155",
+        "longitude": "114.2083739"
+    },
+    "CWI": {
+        "latitude": "52.3563486",
+        "longitude": "4.9517276"
+    },
+    "Cardiff University": {
+        "latitude": "51.4876641",
+        "longitude": "-3.1791621"
+    },
+    "Carleton University": {
+        "latitude": "45.3858581",
+        "longitude": "-75.6950041"
+    },
+    "Charles University": {
+        "latitude": "50.2133737",
+        "longitude": "15.8351215"
+    },
+    "Chinese Academy of Sciences": {
+        "latitude": "39.9828515",
+        "longitude": "116.3245244"
+    },
+    "Chinese University of Hong Kong": {
+        "latitude": "22.28552",
+        "longitude": "114.15769"
+    },
+    "Chulalongkorn University": {
+        "latitude": "13.7431095",
+        "longitude": "100.5328841"
+    },
+    "City University of Hong Kong": {
+        "latitude": "22.28552",
+        "longitude": "114.15769"
+    },
+    "City University of London": {
+        "latitude": "51.5276441",
+        "longitude": "-0.1035989"
+    },
+    "Concordia University": {
+        "latitude": "45.495244",
+        "longitude": "-73.5784993"
+    },
+    "Cyprus University of Technology": {
+        "latitude": "34.6766894",
+        "longitude": "33.0445526"
+    },
+    "Czech Technical University": {
+        "latitude": "50.1029026",
+        "longitude": "14.3946353"
+    },
+    "DAIICT": {
+        "latitude": "23.1881176",
+        "longitude": "72.627997"
+    },
+    "DTU": {
+        "latitude": "55.7854145",
+        "longitude": "12.5202151"
+    },
+    "Dalhousie University": {
+        "latitude": "44.6375234",
+        "longitude": "-63.5872235"
+    },
+    "De La Salle University": {
+        "latitude": "14.5675138",
+        "longitude": "120.9914195"
+    },
+    "Durham University": {
+        "latitude": "54.5622715",
+        "longitude": "-1.2963557"
+    },
+    "EPFL": {
+        "latitude": "46.5186594",
+        "longitude": "6.5665615"
+    },
+    "ETH Zurich": {
+        "latitude": "47.413218",
+        "longitude": "8.5374914"
+    },
+    "ETS Montreal": {
+        "latitude": "45.4945354",
+        "longitude": "-73.5628851"
+    },
+    "EURECOM": {
+        "latitude": "43.6143795",
+        "longitude": "7.0712057"
+    },
+    "East China Normal University": {
+        "latitude": "31.2284923",
+        "longitude": "121.4021139"
+    },
+    "Ecole Normale Superieure": {
+        "latitude": "48.8417072",
+        "longitude": "2.3447923"
+    },
+    "Ecole Normale Superieure de Cachan": {
+        "latitude": "48.79632",
+        "longitude": "2.33661"
+    },
+    "Ecole Normale Superieure de Lyon": {
+        "latitude": "45.74846",
+        "longitude": "4.84671"
+    },
+    "Ecole Normale Superieure de Rennes": {
+        "latitude": "48.0457455",
+        "longitude": "-1.7460712"
+    },
+    "Federal University of Rio Grande": {
+        "latitude": "-22.862661",
+        "longitude": "-43.2230021"
+    },
+    "Freie Universitaet Berlin": {
+        "latitude": "52.4549616",
+        "longitude": "13.296274"
+    },
+    "Friedrich Schiller University Jena": {
+        "latitude": "50.9326427",
+        "longitude": "11.5779867"
+    },
+    "Fudan University": {
+        "latitude": "31.3011648",
+        "longitude": "121.4980876"
+    },
+    "Galatasaray University": {
+        "latitude": "41.0459923",
+        "longitude": "29.0204624"
+    },
+    "Goethe University Frankfurt": {
+        "latitude": "50.11552",
+        "longitude": "8.68417"
+    },
+    "Goldsmiths University of London": {
+        "latitude": "51.4740396",
+        "longitude": "-0.0393493"
+    },
+    "Graz University of Technology": {
+        "latitude": "47.05821",
+        "longitude": "15.4601947"
+    },
+    "HEC Montreal": {
+        "latitude": "45.5036114",
+        "longitude": "-73.6212922"
+    },
+    "HUST": {
+        "latitude": "30.5202172",
+        "longitude": "114.4118463"
+    },
+    "Hacettepe University": {
+        "latitude": "39.867446",
+        "longitude": "32.7354752"
+    },
+    "Hamburg University of Technology": {
+        "latitude": "53.461",
+        "longitude": "9.9692264"
+    },
+    "Hanyang University": {
+        "latitude": "37.5557274",
+        "longitude": "127.0436837"
+    },
+    "Harbin Institute of Technology": {
+        "latitude": "45.741589",
+        "longitude": "126.6255626"
+    },
+    "Hasso Plattner Institute": {
+        "latitude": "52.3934356",
+        "longitude": "13.1319294"
+    },
+    "Hebrew University of Jerusalem": {
+        "latitude": "31.7918555",
+        "longitude": "35.244723"
+    },
+    "Heidelberg University": {
+        "latitude": "49.4013697",
+        "longitude": "8.6715978"
+    },
+    "Heriot-Watt University": {
+        "latitude": "55.9102958",
+        "longitude": "-3.3234475"
+    },
+    "Humboldt University of Berlin": {
+        "latitude": "52.5185813",
+        "longitude": "13.3928784"
+    },
+    "Hunan University": {
+        "latitude": "28.1797096",
+        "longitude": "112.9413185"
+    },
+    "IIIT Bangalore": {
+        "latitude": "12.8443019",
+        "longitude": "77.6632921"
+    },
+    "IIIT Delhi": {
+        "latitude": "28.5463259",
+        "longitude": "77.273255"
+    },
+    "IIIT Hyderabad": {
+        "latitude": "17.4454957",
+        "longitude": "78.348547"
+    },
+    "IISc Bangalore": {
+        "latitude": "13.0222347",
+        "longitude": "77.5671832"
+    },
+    "IIT (BHU) Varanasi": {
+        "latitude": "25.2601704",
+        "longitude": "82.9908449"
+    },
+    "IIT Bhubaneswar": {
+        "latitude": "20.1480813",
+        "longitude": "85.6764298"
+    },
+    "IIT Bombay": {
+        "latitude": "19.1326186",
+        "longitude": "72.9149791"
+    },
+    "IIT Delhi": {
+        "latitude": "28.5470121",
+        "longitude": "77.1945546"
+    },
+    "IIT Gandhinagar": {
+        "latitude": "23.2164308",
+        "longitude": "72.6876404"
+    },
+    "IIT Goa": {
+        "latitude": "15.4236608",
+        "longitude": "73.9806018"
+    },
+    "IIT Guwahati": {
+        "latitude": "26.1924787",
+        "longitude": "91.6946357"
+    },
+    "IIT Hyderabad": {
+        "latitude": "17.5922751",
+        "longitude": "78.1221891"
+    },
+    "IIT Indore": {
+        "latitude": "22.5269276",
+        "longitude": "75.9262066"
+    },
+    "IIT Jodhpur": {
+        "latitude": "26.2713865",
+        "longitude": "73.0333348"
+    },
+    "IIT Kanpur": {
+        "latitude": "26.512336",
+        "longitude": "80.2338247"
+    },
+    "IIT Kharagpur": {
+        "latitude": "22.3144275",
+        "longitude": "87.310392"
+    },
+    "IIT Madras": {
+        "latitude": "12.9914769",
+        "longitude": "80.2336786"
+    },
+    "IIT Mandi": {
+        "latitude": "31.7757191",
+        "longitude": "76.9874534"
+    },
+    "IIT Patna": {
+        "latitude": "25.6301238",
+        "longitude": "85.1033176"
+    },
+    "IIT Roorkee": {
+        "latitude": "29.8661656",
+        "longitude": "77.8957348"
+    },
+    "IIT Ropar": {
+        "latitude": "30.9659501",
+        "longitude": "76.4729772"
+    },
+    "IPI PAN": {
+        "latitude": "52.2258111",
+        "longitude": "20.9499124"
+    },
+    "IPM": {
+        "latitude": "35.800326",
+        "longitude": "51.4627671"
+    },
+    "ISI Kolkata": {
+        "latitude": "22.5922785",
+        "longitude": "88.4153702"
+    },
+    "IST Austria": {
+        "latitude": "48.3105695",
+        "longitude": "16.2584799"
+    },
+    "IT University of Copenhagen": {
+        "latitude": "55.6596553",
+        "longitude": "12.5910769"
+    },
+    "IUST": {
+        "latitude": "35.7427943",
+        "longitude": "51.5057405"
+    },
+    "Imperial College London": {
+        "latitude": "51.4989595",
+        "longitude": "-0.1756413"
+    },
+    "Istanbul Technical University": {
+        "latitude": "41.1050465",
+        "longitude": "29.0263268"
+    },
+    "Izmir Institute of Technology": {
+        "latitude": "38.3226588",
+        "longitude": "26.6377295"
+    },
+    "JKU Linz": {
+        "latitude": "48.3360933",
+        "longitude": "14.3205674"
+    },
+    "Jacobs University Bremen": {
+        "latitude": "53.1677233",
+        "longitude": "8.6511657"
+    },
+    "KAIST": {
+        "latitude": "37.5612302",
+        "longitude": "126.9832396"
+    },
+    "KAUST": {
+        "latitude": "22.3223754",
+        "longitude": "39.1173835"
+    },
+    "KMUTNB": {
+        "latitude": "13.8234767",
+        "longitude": "100.5122406"
+    },
+    "KTH Royal Institute of Technology": {
+        "latitude": "59.2016758",
+        "longitude": "17.6203201"
+    },
+    "KU Leuven": {
+        "latitude": "50.8057128",
+        "longitude": "3.2915374"
+    },
+    "Karlsruhe Institute of Technology": {
+        "latitude": "49.1018534",
+        "longitude": "8.4331202"
+    },
+    "Keio University": {
+        "latitude": "35.5520841",
+        "longitude": "139.6495838"
+    },
+    "King Abdulaziz University": {
+        "latitude": "21.4934146",
+        "longitude": "39.2485449"
+    },
+    "King's College London": {
+        "latitude": "51.5151076",
+        "longitude": "-0.1106725"
+    },
+    "Korea University": {
+        "latitude": "36.6108905",
+        "longitude": "127.2934246"
+    },
+    "Kyoto University": {
+        "latitude": "35.0234513",
+        "longitude": "135.7798129"
+    },
+    "Kyung Hee University": {
+        "latitude": "37.5971213",
+        "longitude": "127.0519867"
+    },
+    "Kyungpook National University": {
+        "latitude": "35.8905697",
+        "longitude": "128.6108553"
+    },
+    "LMU Munich": {
+        "latitude": "48.2469873",
+        "longitude": "11.5449354"
+    },
+    "LUMS": {
+        "latitude": "31.4379374",
+        "longitude": "73.1299653"
+    },
+    "Lancaster University": {
+        "latitude": "54.0097537",
+        "longitude": "-2.7875727"
+    },
+    "Lebanese American University": {
+        "latitude": "33.8928356",
+        "longitude": "35.4774984"
+    },
+    "Leiden University": {
+        "latitude": "52.1686339",
+        "longitude": "4.4596631"
+    },
+    "Loughborough University": {
+        "latitude": "52.7626882",
+        "longitude": "-1.2396365"
+    },
+    "Lund University": {
+        "latitude": "55.7126504",
+        "longitude": "13.2107587"
+    },
+    "Maastricht University": {
+        "latitude": "50.8499111",
+        "longitude": "5.6856029"
+    },
+    "Macquarie University": {
+        "latitude": "-33.7740328",
+        "longitude": "151.1126944"
+    },
+    "Masaryk University": {
+        "latitude": "49.198657",
+        "longitude": "16.6056272"
+    },
+    "Masdar Institute": {
+        "latitude": "24.4348507",
+        "longitude": "54.6167989"
+    },
+    "Massey University": {
+        "latitude": "-40.3844693",
+        "longitude": "175.6164996"
+    },
+    "Max Planck Society": {
+        "latitude": "48.2633373",
+        "longitude": "11.6765672"
+    },
+    "McGill University": {
+        "latitude": "45.5069177",
+        "longitude": "-73.5791163"
+    },
+    "McMaster University": {
+        "latitude": "43.2639397",
+        "longitude": "-79.9178252"
+    },
+    "Memorial University of Newfoundland": {
+        "latitude": "47.5733341",
+        "longitude": "-52.7333066"
+    },
+    "Middle East Technical University": {
+        "latitude": "39.8754967",
+        "longitude": "32.7855351"
+    },
+    "Middlesex University": {
+        "latitude": "51.5902971",
+        "longitude": "-0.2296322"
+    },
+    "Monash University": {
+        "latitude": "-37.9107764",
+        "longitude": "145.1348065"
+    },
+    "NISER": {
+        "latitude": "20.1698283",
+        "longitude": "85.6838559"
+    },
+    "NTNU": {
+        "latitude": "63.423373",
+        "longitude": "10.39085"
+    },
+    "NTUA": {
+        "latitude": "37.9778779",
+        "longitude": "23.7821791"
+    },
+    "NYU Shanghai": {
+        "latitude": "31.2277139",
+        "longitude": "121.5296684"
+    },
+    "Nanjing University": {
+        "latitude": "32.0565957",
+        "longitude": "118.7740883"
+    },
+    "Nanyang Technological University": {
+        "latitude": "1.3484104",
+        "longitude": "103.6829332"
+    },
+    "National Cheng Kung University": {
+        "latitude": "22.9991916",
+        "longitude": "120.2162513"
+    },
+    "National Chiao Tung University": {
+        "latitude": "24.797853",
+        "longitude": "120.9819505"
+    },
+    "National Institute of Informatics": {
+        "latitude": "35.8932615",
+        "longitude": "139.9449382"
+    },
+    "National Taiwan University": {
+        "latitude": "25.0168862",
+        "longitude": "121.538521"
+    },
+    "National Tsing Hua University": {
+        "latitude": "24.7916987",
+        "longitude": "120.9924295"
+    },
+    "National University of Singapore": {
+        "latitude": "1.2962018",
+        "longitude": "103.7768994"
+    },
+    "Newcastle University": {
+        "latitude": "54.980175",
+        "longitude": "-1.6146802"
+    },
+    "Ontario Tech University": {
+        "latitude": "43.9483311",
+        "longitude": "-78.8981668"
+    },
+    "Open University UK": {
+        "latitude": "52.0245378",
+        "longitude": "-0.7092748"
+    },
+    "Osaka University": {
+        "latitude": "34.7727934",
+        "longitude": "135.510445"
+    },
+    "POSTECH": {
+        "latitude": "36.0180795",
+        "longitude": "129.3208556"
+    },
+    "PUC-RIO": {
+        "latitude": "-22.9796435",
+        "longitude": "-43.233152"
+    },
+    "PUC-RS": {
+        "latitude": "-30.0551712",
+        "longitude": "-51.1735106"
+    },
+    "Paderborn University": {
+        "latitude": "51.707521",
+        "longitude": "8.7724141"
+    },
+    "Peking University": {
+        "latitude": "40.1733653",
+        "longitude": "116.15722"
+    },
+    "Politecnico di Milano": {
+        "latitude": "45.4790288",
+        "longitude": "9.2322104"
+    },
+    "Polytechnic University of Catalonia": {
+        "latitude": "41.82046",
+        "longitude": "1.86768"
+    },
+    "Polytechnique Montreal": {
+        "latitude": "45.5045875",
+        "longitude": "-73.612996"
+    },
+    "Qatar University": {
+        "latitude": "25.3719714",
+        "longitude": "51.4879579"
+    },
+    "Queen Mary University of London": {
+        "latitude": "51.5247272",
+        "longitude": "-0.0393103"
+    },
+    "Queen's University Belfast": {
+        "latitude": "54.5841487",
+        "longitude": "-5.933721"
+    },
+    "Queensland University of Technology": {
+        "latitude": "-27.542195",
+        "longitude": "153.0649526"
+    },
+    "RMIT University": {
+        "latitude": "-37.8060119",
+        "longitude": "144.9639221"
+    },
+    "RWTH Aachen": {
+        "latitude": "50.7791645",
+        "longitude": "6.068921"
+    },
+    "Radboud University": {
+        "latitude": "51.8215172",
+        "longitude": "5.8634034"
+    },
+    "Renmin University of China": {
+        "latitude": "39.9697678",
+        "longitude": "116.3070933"
+    },
+    "Royal Holloway University of London": {
+        "latitude": "51.4249395",
+        "longitude": "-0.5663896"
+    },
+    "Royal Military College of Canada": {
+        "latitude": "44.2317354",
+        "longitude": "-76.4681093"
+    },
+    "Ruhr-University Bochum": {
+        "latitude": "51.48165",
+        "longitude": "7.21648"
+    },
+    "SUSTech": {
+        "latitude": "22.5984682",
+        "longitude": "113.9984255"
+    },
+    "SUTD": {
+        "latitude": "1.3416143",
+        "longitude": "103.9648552"
+    },
+    "Saarland University": {
+        "latitude": "49.2542853",
+        "longitude": "7.0415071"
+    },
+    "Sapienza University of Rome": {
+        "latitude": "41.89193",
+        "longitude": "12.51133"
+    },
+    "Scuola Superiore Sant'Anna": {
+        "latitude": "43.7206078",
+        "longitude": "10.4026444"
+    },
+    "Seoul National University": {
+        "latitude": "37.46691",
+        "longitude": "126.94771"
+    },
+    "Shandong University": {
+        "latitude": "37.5321347",
+        "longitude": "122.0545069"
+    },
+    "Shanghai Jiao Tong University": {
+        "latitude": "31.2008911",
+        "longitude": "121.4283949"
+    },
+    "ShanghaiTech University": {
+        "latitude": "31.1794305",
+        "longitude": "121.5902345"
+    },
+    "Sharif University of Technology": {
+        "latitude": "35.7024195",
+        "longitude": "51.3517178"
+    },
+    "Shenzhen University": {
+        "latitude": "22.5359022",
+        "longitude": "113.9314749"
+    },
+    "Simon Fraser University": {
+        "latitude": "49.2767096",
+        "longitude": "-122.917803"
+    },
+    "Singapore Management University": {
+        "latitude": "1.296168",
+        "longitude": "103.8500437"
+    },
+    "Soochow University": {
+        "latitude": "31.4173678",
+        "longitude": "120.8928583"
+    },
+    "South Asian University": {
+        "latitude": "28.4849773",
+        "longitude": "77.2010222"
+    },
+    "Stellenbosch University": {
+        "latitude": "-33.931522",
+        "longitude": "18.8676656"
+    },
+    "Sun Yat-sen University": {
+        "latitude": "23.0996033",
+        "longitude": "113.2923509"
+    },
+    "TU Berlin": {
+        "latitude": "52.5110158",
+        "longitude": "13.3269541"
+    },
+    "TU Braunschweig": {
+        "latitude": "52.2761359",
+        "longitude": "10.5410923"
+    },
+    "TU Chemnitz": {
+        "latitude": "50.8145501",
+        "longitude": "12.9296204"
+    },
+    "TU Clausthal": {
+        "latitude": "51.8019554",
+        "longitude": "10.3455053"
+    },
+    "TU Crete": {
+        "latitude": "35.3104602",
+        "longitude": "25.564606"
+    },
+    "TU Darmstadt": {
+        "latitude": "49.8611517",
+        "longitude": "8.681944"
+    },
+    "TU Delft": {
+        "latitude": "51.9988273",
+        "longitude": "4.3739604"
+    },
+    "TU Dortmund": {
+        "latitude": "51.4914844",
+        "longitude": "7.4122739"
+    },
+    "TU Dresden": {
+        "latitude": "51.0282765",
+        "longitude": "13.7359828"
+    },
+    "TU Eindhoven": {
+        "latitude": "51.4486602",
+        "longitude": "5.4903996"
+    },
+    "TU Freiberg": {
+        "latitude": "48.8363",
+        "longitude": "9.2049"
+    },
+    "TU Ilmenau": {
+        "latitude": "50.6825028",
+        "longitude": "10.9365063"
+    },
+    "TU Kaiserslautern": {
+        "latitude": "49.4246142",
+        "longitude": "7.7542142"
+    },
+    "TU Munich": {
+        "latitude": "48.1499263",
+        "longitude": "11.5664841"
+    },
+    "TU Wien": {
+        "latitude": "48.1985397",
+        "longitude": "16.3698617"
+    },
+    "Tampere University": {
+        "latitude": "61.4947292",
+        "longitude": "23.777768"
+    },
+    "Technion": {
+        "latitude": "32.774576",
+        "longitude": "35.0236399"
+    },
+    "Tel Aviv University": {
+        "latitude": "32.1037064",
+        "longitude": "34.8046101"
+    },
+    "Texas A&M at Qatar": {
+        "latitude": "25.5",
+        "longitude": "51.25"
+    },
+    "The Catholic University of Korea": {
+        "latitude": "37.5004435",
+        "longitude": "127.0055211"
+    },
+    "Tilburg University": {
+        "latitude": "51.5630608",
+        "longitude": "5.0435985"
+    },
+    "Tokyo Institute of Technology": {
+        "latitude": "35.6050381",
+        "longitude": "139.6827407"
+    },
+    "Tongji University": {
+        "latitude": "31.2847393",
+        "longitude": "121.4969491"
+    },
+    "Toronto Metropolitan University": {
+        "latitude": "43.6583244",
+        "longitude": "-79.3789252"
+    },
+    "Trinity College Dublin": {
+        "latitude": "53.3436674",
+        "longitude": "-6.2544447"
+    },
+    "Tsinghua University": {
+        "latitude": "40.0022905",
+        "longitude": "116.320963"
+    },
+    "UESTC": {
+        "latitude": "22.5296608",
+        "longitude": "113.3844848"
+    },
+    "UFF": {
+        "latitude": "-22.8984596",
+        "longitude": "-43.1334212"
+    },
+    "UFMG": {
+        "latitude": "-19.8731763",
+        "longitude": "-43.9738533"
+    },
+    "UFMS": {
+        "latitude": "-20.5045696",
+        "longitude": "-54.613548"
+    },
+    "UFPE": {
+        "latitude": "-8.0524236",
+        "longitude": "-34.9510615"
+    },
+    "UFPR": {
+        "latitude": "-25.3986967",
+        "longitude": "-49.1207032"
+    },
+    "UFRGS": {
+        "latitude": "-30.033315",
+        "longitude": "-51.219944"
+    },
+    "UFRJ": {
+        "latitude": "-22.8533498",
+        "longitude": "-43.2331703"
+    },
+    "UFU": {
+        "latitude": "-18.9182252",
+        "longitude": "-48.2574214"
+    },
+    "UNICAMP": {
+        "latitude": "-22.8227237",
+        "longitude": "-47.0642006"
+    },
+    "UNIST": {
+        "latitude": "35.5737484",
+        "longitude": "129.1897266"
+    },
+    "UNSW": {
+        "latitude": "-33.9175994",
+        "longitude": "151.2312649"
+    },
+    "USP": {
+        "latitude": "-23.560964",
+        "longitude": "-46.7277081"
+    },
+    "USTC": {
+        "latitude": "31.8390719",
+        "longitude": "117.2642075"
+    },
+    "Universidad Rey Juan Carlos": {
+        "latitude": "40.4055256",
+        "longitude": "-3.6105584"
+    },
+    "Universidad de Chile": {
+        "latitude": "-33.4439386",
+        "longitude": "-70.6510174"
+    },
+    "Universidad de Zaragoza": {
+        "latitude": "42.5685618",
+        "longitude": "-0.5541882"
+    },
+    "Universidad de los Andes": {
+        "latitude": "4.6014047",
+        "longitude": "-74.0649033"
+    },
+    "Universidade NOVA de Lisboa": {
+        "latitude": "38.7328407",
+        "longitude": "-9.1602002"
+    },
+    "Universidade de Lisboa": {
+        "latitude": "38.7479214",
+        "longitude": "-9.1537687"
+    },
+    "University College Dublin": {
+        "latitude": "53.3068763",
+        "longitude": "-6.2246251"
+    },
+    "University College London": {
+        "latitude": "51.524203",
+        "longitude": "-0.1330007"
+    },
+    "University of Aberdeen": {
+        "latitude": "57.1645247",
+        "longitude": "-2.1018364"
+    },
+    "University of Adelaide": {
+        "latitude": "-34.9189226",
+        "longitude": "138.6042367"
+    },
+    "University of Alberta": {
+        "latitude": "53.52682",
+        "longitude": "-113.5244937"
+    },
+    "University of Amsterdam": {
+        "latitude": "52.3681334",
+        "longitude": "4.8898042"
+    },
+    "University of Athens": {
+        "latitude": "37.9700379",
+        "longitude": "23.7652367"
+    },
+    "University of Auckland": {
+        "latitude": "-36.8490619",
+        "longitude": "174.7740233"
+    },
+    "University of Augsburg": {
+        "latitude": "48.3337104",
+        "longitude": "10.8989066"
+    },
+    "University of Bamberg": {
+        "latitude": "54.0868029",
+        "longitude": "13.3817873"
+    },
+    "University of Bath": {
+        "latitude": "51.3765855",
+        "longitude": "-2.323423"
+    },
+    "University of Bayreuth": {
+        "latitude": "49.9270796",
+        "longitude": "11.5872266"
+    },
+    "University of Bergen": {
+        "latitude": "60.3688758",
+        "longitude": "5.3511115"
+    },
+    "University of Bern": {
+        "latitude": "46.9509726",
+        "longitude": "7.4386841"
+    },
+    "University of Birmingham": {
+        "latitude": "52.4522956",
+        "longitude": "-1.9312857"
+    },
+    "University of Bonn": {
+        "latitude": "50.7338124",
+        "longitude": "7.1022465"
+    },
+    "University of Bremen": {
+        "latitude": "53.1079646",
+        "longitude": "8.8556646"
+    },
+    "University of Bristol": {
+        "latitude": "51.4576096",
+        "longitude": "-2.6016349"
+    },
+    "University of British Columbia": {
+        "latitude": "49.2578314",
+        "longitude": "-123.246242"
+    },
+    "University of Buenos Aires": {
+        "latitude": "-34.604629",
+        "longitude": "-58.3729914"
+    },
+    "University of Calgary": {
+        "latitude": "51.0783651",
+        "longitude": "-114.1283072"
+    },
+    "University of Cambridge": {
+        "latitude": "52.2006233",
+        "longitude": "0.1104744"
+    },
+    "University of Canterbury": {
+        "latitude": "-43.5240894",
+        "longitude": "172.5803058"
+    },
+    "University of Cape Town": {
+        "latitude": "-33.9567559",
+        "longitude": "18.4675777"
+    },
+    "University of Cologne": {
+        "latitude": "50.9280445",
+        "longitude": "6.9281305"
+    },
+    "University of Copenhagen": {
+        "latitude": "55.6801502",
+        "longitude": "12.572327"
+    },
+    "University of Crete": {
+        "latitude": "35.3538006",
+        "longitude": "24.4496293"
+    },
+    "University of Duisburg-Essen": {
+        "latitude": "51.4287419",
+        "longitude": "6.7869662"
+    },
+    "University of Dundee": {
+        "latitude": "56.4579675",
+        "longitude": "-2.9821483"
+    },
+    "University of Edinburgh": {
+        "latitude": "55.9440764",
+        "longitude": "-3.1883736"
+    },
+    "University of Essex": {
+        "latitude": "51.8770303",
+        "longitude": "0.9500789"
+    },
+    "University of Exeter": {
+        "latitude": "50.7369302",
+        "longitude": "-3.5364767"
+    },
+    "University of Freiburg": {
+        "latitude": "47.9959",
+        "longitude": "7.85222"
+    },
+    "University of Glasgow": {
+        "latitude": "55.8723153",
+        "longitude": "-4.2892191"
+    },
+    "University of Groningen": {
+        "latitude": "53.2196783",
+        "longitude": "6.5625148"
+    },
+    "University of Guelph": {
+        "latitude": "43.535193",
+        "longitude": "-80.2189423"
+    },
+    "University of Haifa": {
+        "latitude": "32.7609456",
+        "longitude": "35.0204348"
+    },
+    "University of Halle-Wittenberg": {
+        "latitude": "51.87437",
+        "longitude": "12.60603"
+    },
+    "University of Hamburg": {
+        "latitude": "53.5641091",
+        "longitude": "9.9949789"
+    },
+    "University of Hannover": {
+        "latitude": "52.3776307",
+        "longitude": "9.7546827"
+    },
+    "University of Helsinki": {
+        "latitude": "60.1756483",
+        "longitude": "24.95355"
+    },
+    "University of Hildesheim": {
+        "latitude": "52.15077",
+        "longitude": "9.95112"
+    },
+    "University of Hong Kong": {
+        "latitude": "22.28552",
+        "longitude": "114.15769"
+    },
+    "University of Innsbruck": {
+        "latitude": "47.2633159",
+        "longitude": "11.3844733"
+    },
+    "University of Ioannina": {
+        "latitude": "39.6156591",
+        "longitude": "20.8395257"
+    },
+    "University of Jordan": {
+        "latitude": "32.0134092",
+        "longitude": "35.8733821"
+    },
+    "University of Kassel": {
+        "latitude": "51.3037063",
+        "longitude": "9.4144651"
+    },
+    "University of Kent": {
+        "latitude": "51.2950158",
+        "longitude": "1.0673011"
+    },
+    "University of Kiel": {
+        "latitude": "54.3324178",
+        "longitude": "10.1798014"
+    },
+    "University of Klagenfurt": {
+        "latitude": "46.6164026",
+        "longitude": "14.2646809"
+    },
+    "University of Koblenz-Landau": {
+        "latitude": "49.19844",
+        "longitude": "8.11692"
+    },
+    "University of Konstanz": {
+        "latitude": "47.6900886",
+        "longitude": "9.1882439"
+    },
+    "University of L'Aquila": {
+        "latitude": "42.36503",
+        "longitude": "13.39349"
+    },
+    "University of Leeds": {
+        "latitude": "53.8067743",
+        "longitude": "-1.5562878"
+    },
+    "University of Leipzig": {
+        "latitude": "51.3131269",
+        "longitude": "12.3735652"
+    },
+    "University of Liverpool": {
+        "latitude": "53.4072429",
+        "longitude": "-2.9658337"
+    },
+    "University of Luxembourg": {
+        "latitude": "49.5036259",
+        "longitude": "5.9487155"
+    },
+    "University of Magdeburg": {
+        "latitude": "52.12773",
+        "longitude": "11.62916"
+    },
+    "University of Mainz": {
+        "latitude": "49.98419",
+        "longitude": "8.2791"
+    },
+    "University of Malaya": {
+        "latitude": "3.1257602",
+        "longitude": "101.6558796"
+    },
+    "University of Malta": {
+        "latitude": "35.9021055",
+        "longitude": "14.4834058"
+    },
+    "University of Manchester": {
+        "latitude": "53.4657087",
+        "longitude": "-2.2327343"
+    },
+    "University of Manitoba": {
+        "latitude": "49.8091536",
+        "longitude": "-97.1330418"
+    },
+    "University of Mannheim": {
+        "latitude": "49.4699765",
+        "longitude": "8.4819024"
+    },
+    "University of Marburg": {
+        "latitude": "50.80904",
+        "longitude": "8.77069"
+    },
+    "University of Melbourne": {
+        "latitude": "-37.8038271",
+        "longitude": "144.9597056"
+    },
+    "University of Molise": {
+        "latitude": "41.63147",
+        "longitude": "14.49252"
+    },
+    "University of Montreal": {
+        "latitude": "45.5069177",
+        "longitude": "-73.5791163"
+    },
+    "University of Murcia": {
+        "latitude": "37.9321597",
+        "longitude": "-1.1625399"
+    },
+    "University of New Brunswick": {
+        "latitude": "45.9455303",
+        "longitude": "-66.6401831"
+    },
+    "University of Newcastle": {
+        "latitude": "-32.8906877",
+        "longitude": "151.7022242"
+    },
+    "University of Nicosia": {
+        "latitude": "35.1660481",
+        "longitude": "33.3149406"
+    },
+    "University of Nottingham": {
+        "latitude": "52.9387428",
+        "longitude": "-1.2002957"
+    },
+    "University of Oldenburg": {
+        "latitude": "53.1468722",
+        "longitude": "8.1815079"
+    },
+    "University of Otago": {
+        "latitude": "-45.8649793",
+        "longitude": "170.5146149"
+    },
+    "University of Ottawa": {
+        "latitude": "45.422527",
+        "longitude": "-75.6833904"
+    },
+    "University of Oxford": {
+        "latitude": "51.7588791",
+        "longitude": "-1.2596028"
+    },
+    "University of Padova": {
+        "latitude": "45.40797",
+        "longitude": "11.88586"
+    },
+    "University of Passau": {
+        "latitude": "48.5675442",
+        "longitude": "13.4521055"
+    },
+    "University of Piraeus": {
+        "latitude": "37.9417327",
+        "longitude": "23.6530326"
+    },
+    "University of Pisa": {
+        "latitude": "43.70853",
+        "longitude": "10.4036"
+    },
+    "University of Potsdam": {
+        "latitude": "52.3888479",
+        "longitude": "13.1197939"
+    },
+    "University of Queensland": {
+        "latitude": "-27.5096219",
+        "longitude": "152.9967347"
+    },
+    "University of Regina": {
+        "latitude": "50.4152275",
+        "longitude": "-104.589"
+    },
+    "University of Rostock": {
+        "latitude": "54.0887",
+        "longitude": "12.14049"
+    },
+    "University of Salerno": {
+        "latitude": "40.67545",
+        "longitude": "14.79328"
+    },
+    "University of Salzburg": {
+        "latitude": "47.7947829",
+        "longitude": "13.0541597"
+    },
+    "University of Saskatchewan": {
+        "latitude": "52.1344194",
+        "longitude": "-106.6277768"
+    },
+    "University of Sheffield": {
+        "latitude": "53.3815327",
+        "longitude": "-1.4806602"
+    },
+    "University of Siegen": {
+        "latitude": "50.87481",
+        "longitude": "8.02431"
+    },
+    "University of Southampton": {
+        "latitude": "50.9370336",
+        "longitude": "-1.4050091"
+    },
+    "University of St Andrews": {
+        "latitude": "56.3398198",
+        "longitude": "-2.8117937"
+    },
+    "University of Strathclyde": {
+        "latitude": "55.8618812",
+        "longitude": "-4.2419566"
+    },
+    "University of Stuttgart": {
+        "latitude": "48.7133801",
+        "longitude": "9.212073"
+    },
+    "University of Surrey": {
+        "latitude": "51.2430782",
+        "longitude": "-0.5900545"
+    },
+    "University of Sussex": {
+        "latitude": "50.8679666",
+        "longitude": "-0.087789"
+    },
+    "University of Sydney": {
+        "latitude": "-33.896083",
+        "longitude": "151.1846614"
+    },
+    "University of Szeged": {
+        "latitude": "46.2500455",
+        "longitude": "20.1465034"
+    },
+    "University of Tartu": {
+        "latitude": "58.3808897",
+        "longitude": "26.7196475"
+    },
+    "University of Technology Sydney": {
+        "latitude": "-33.8832174",
+        "longitude": "151.2003669"
+    },
+    "University of Tokyo": {
+        "latitude": "35.7117157",
+        "longitude": "139.7637457"
+    },
+    "University of Toronto": {
+        "latitude": "43.663462",
+        "longitude": "-79.3977597"
+    },
+    "University of Trento": {
+        "latitude": "46.0661497",
+        "longitude": "11.1166232"
+    },
+    "University of Trier": {
+        "latitude": "49.7680581",
+        "longitude": "6.6286901"
+    },
+    "University of Tsukuba": {
+        "latitude": "36.1070526",
+        "longitude": "140.1006602"
+    },
+    "University of Twente": {
+        "latitude": "52.2233862",
+        "longitude": "6.8854239"
+    },
+    "University of Ulm": {
+        "latitude": "48.3804433",
+        "longitude": "10.0101012"
+    },
+    "University of Victoria": {
+        "latitude": "48.4697748",
+        "longitude": "-123.3169956"
+    },
+    "University of Vienna": {
+        "latitude": "48.2131284",
+        "longitude": "16.360686"
+    },
+    "University of Waikato": {
+        "latitude": "-37.7858739",
+        "longitude": "175.3167665"
+    },
+    "University of Warsaw": {
+        "latitude": "52.2122971",
+        "longitude": "20.9852973"
+    },
+    "University of Warwick": {
+        "latitude": "52.3813073",
+        "longitude": "-1.5639569"
+    },
+    "University of Waterloo": {
+        "latitude": "43.4701994",
+        "longitude": "-80.5452429"
+    },
+    "University of Western Australia": {
+        "latitude": "-31.9504045",
+        "longitude": "115.7979016"
+    },
+    "University of Windsor": {
+        "latitude": "42.3052014",
+        "longitude": "-83.0664914"
+    },
+    "University of Wroclaw": {
+        "latitude": "51.108946",
+        "longitude": "17.0589937"
+    },
+    "University of Wuppertal": {
+        "latitude": "51.27027",
+        "longitude": "7.16755"
+    },
+    "University of York": {
+        "latitude": "53.9453903",
+        "longitude": "-1.0314593"
+    },
+    "University of Zurich": {
+        "latitude": "47.4968435",
+        "longitude": "8.7298072"
+    },
+    "Università della Svizzera italiana": {
+        "latitude": "46.0109126",
+        "longitude": "8.9581205"
+    },
+    "Université Jean Monnet": {
+        "latitude": "43.93115",
+        "longitude": "5.047827"
+    },
+    "Université Laval": {
+        "latitude": "45.56995",
+        "longitude": "-73.692"
+    },
+    "Université Paris Dauphine": {
+        "latitude": "44.109993",
+        "longitude": "3.552451"
+    },
+    "Université de Sherbrooke": {
+        "latitude": "45.40008",
+        "longitude": "-71.89908"
+    },
+    "Université libre de Bruxelles": {
+        "latitude": "50.85045",
+        "longitude": "4.34878"
+    },
+    "Uppsala University": {
+        "latitude": "59.8617859",
+        "longitude": "17.6376705"
+    },
+    "Utrecht University": {
+        "latitude": "52.0870179",
+        "longitude": "5.1801005"
+    },
+    "VISTEC": {
+        "latitude": "13.0016529",
+        "longitude": "101.441304"
+    },
+    "VU Amsterdam": {
+        "latitude": "52.3339622",
+        "longitude": "4.8651965"
+    },
+    "Victoria University of Wellington": {
+        "latitude": "-41.2898792",
+        "longitude": "174.7683802"
+    },
+    "Waseda University": {
+        "latitude": "33.8898728",
+        "longitude": "130.708562"
+    },
+    "Weizmann Institute of Science": {
+        "latitude": "31.9078499",
+        "longitude": "34.8133409"
+    },
+    "Western University": {
+        "latitude": "43.0054234",
+        "longitude": "-81.274801"
+    },
+    "Westlake University": {
+        "latitude": "30.1368888",
+        "longitude": "120.0755026"
+    },
+    "Wuhan University": {
+        "latitude": "30.537354",
+        "longitude": "114.3615203"
+    },
+    "Xiamen University": {
+        "latitude": "24.4399419",
+        "longitude": "118.0930178"
+    },
+    "Xidian University": {
+        "latitude": "34.1251589",
+        "longitude": "108.8289653"
+    },
+    "Yonsei University": {
+        "latitude": "37.5677768",
+        "longitude": "126.9393979"
+    },
+    "York University": {
+        "latitude": "43.7741755",
+        "longitude": "-79.504749"
+    },
+    "Zhejiang University": {
+        "latitude": "30.2963793",
+        "longitude": "120.0720629"
+    },
+    "University of Kentucky": {
+        "latitude": "38.027038",
+        "longitude": "-84.5048374"
+    },
+    "Boston University": {
+        "latitude": "42.3501894",
+        "longitude": "-71.1007099"
+    },
+    "University of Washington": {
+        "latitude": "47.6543466",
+        "longitude": "-122.3080606"
+    },
+    "George Mason University": {
+        "latitude": "38.8313333",
+        "longitude": "-77.3079884"
+    },
+    "Colorado State University": {
+        "latitude": "40.5706567",
+        "longitude": "-105.0853995"
+    },
+    "Iowa State University": {
+        "latitude": "42.0279046",
+        "longitude": "-93.644613"
+    },
+    "University of Illinois at Chicago": {
+        "latitude": "41.8689223",
+        "longitude": "-87.6485848"
+    },
+    "Duke University": {
+        "latitude": "36.0001557",
+        "longitude": "-78.9442297"
+    },
+    "Florida International University": {
+        "latitude": "25.7553898",
+        "longitude": "-80.3762833"
+    },
+    "Oklahoma State University": {
+        "latitude": "36.1284768",
+        "longitude": "-97.0839806"
+    },
+    "UCCS": {
+        "latitude": "38.8924932",
+        "longitude": "-104.7996978"
+    },
+    "University of Maryland - College Park": {
+        "latitude": "38.990547",
+        "longitude": "-76.937251"
+    },
+    "Northeastern University": {
+        "latitude": "42.3390301",
+        "longitude": "-71.0879129"
+    },
+    "Rutgers University": {
+        "latitude": "40.740687",
+        "longitude": "-74.174889"
+    },
+    "Washington University in St. Louis": {
+        "latitude": "38.62727",
+        "longitude": "-90.19789"
+    },
+    "University of Colorado Boulder": {
+        "latitude": "40.0069373",
+        "longitude": "-105.2663866"
+    },
+    "University of Notre Dame": {
+        "latitude": "41.7045677",
+        "longitude": "-86.2382203"
+    },
+    "University of Chicago": {
+        "latitude": "41.7913968",
+        "longitude": "-87.6008439"
+    },
+    "University of Pennsylvania": {
+        "latitude": "39.9493382",
+        "longitude": "-75.189644"
+    },
+    "Yale University": {
+        "latitude": "41.2571305",
+        "longitude": "-72.9896696"
+    },
+    "Univ. of California - San Diego": {
+        "latitude": "32.8792438",
+        "longitude": "-117.2311247"
+    },
+    "Stanford University": {
+        "latitude": "37.4313138",
+        "longitude": "-122.1693654"
+    },
+    "University of Rochester": {
+        "latitude": "43.1226985",
+        "longitude": "-77.6307297"
+    },
+    "University of Iowa": {
+        "latitude": "41.6311024",
+        "longitude": "-91.540752"
+    },
+    "Princeton University": {
+        "latitude": "40.3386752",
+        "longitude": "-74.6583655"
+    },
+    "Carnegie Mellon University": {
+        "latitude": "40.4441897",
+        "longitude": "-79.9427192"
+    },
+    "Pennsylvania State University": {
+        "latitude": "40.8025835",
+        "longitude": "-77.8559383"
+    },
+    "CUNY": {
+        "latitude": "40.7485188",
+        "longitude": "-73.9836393"
+    },
+    "University of Connecticut": {
+        "latitude": "41.8217576",
+        "longitude": "-72.2427754"
+    },
+    "New Mexico Tech": {
+        "latitude": "34.0662339",
+        "longitude": "-106.9110595"
+    },
+    "University of Florida": {
+        "latitude": "29.6328784",
+        "longitude": "-82.3490133"
+    },
+    "Michigan State University": {
+        "latitude": "42.7024238",
+        "longitude": "-84.4803284"
+    },
+    "George Washington University": {
+        "latitude": "38.8998938",
+        "longitude": "-77.0474483"
+    },
+    "Texas Tech University": {
+        "latitude": "33.5937525",
+        "longitude": "-101.8995955"
+    },
+    "Augusta University": {
+        "latitude": "33.4693345",
+        "longitude": "-81.988562"
+    },
+    "University of New Orleans": {
+        "latitude": "30.0283526",
+        "longitude": "-90.0668428"
+    },
+    "University of New Mexico": {
+        "latitude": "35.0866327",
+        "longitude": "-106.6202094"
+    },
+    "Texas A&M University": {
+        "latitude": "30.6108618",
+        "longitude": "-96.3520606"
+    },
+    "Cornell University": {
+        "latitude": "42.4529076",
+        "longitude": "-76.4800842"
+    },
+    "University of Central Florida": {
+        "latitude": "28.5989975",
+        "longitude": "-81.197125"
+    },
+    "Florida Atlantic University": {
+        "latitude": "26.1194037",
+        "longitude": "-80.1416919"
+    },
+    "University of Minnesota": {
+        "latitude": "48.3785292",
+        "longitude": "-92.8311659"
+    },
+    "Vanderbilt University": {
+        "latitude": "36.1438011",
+        "longitude": "-86.8028189"
+    },
+    "Johns Hopkins University": {
+        "latitude": "39.3302022",
+        "longitude": "-76.6218536"
+    },
+    "Univ. of California - Santa Cruz": {
+        "latitude": "36.9924759",
+        "longitude": "-122.058858"
+    },
+    "Northern Arizona University": {
+        "latitude": "35.1834428",
+        "longitude": "-111.6550004"
+    },
+    "Wichita State University": {
+        "latitude": "37.7193429",
+        "longitude": "-97.2898878"
+    },
+    "Wayne State University": {
+        "latitude": "42.3572051",
+        "longitude": "-83.0709498"
+    },
+    "Univ. of California - Los Angeles": {
+        "latitude": "34.0708777",
+        "longitude": "-118.4468507"
+    },
+    "Georgia Institute of Technology": {
+        "latitude": "33.776033",
+        "longitude": "-84.3988409"
+    },
+    "Univ. of Maryland - Baltimore County": {
+        "latitude": "39.252377",
+        "longitude": "-76.7089181"
+    },
+    "Univ. of Illinois at Urbana-Champaign": {
+        "latitude": "40.0991183",
+        "longitude": "-88.2385158"
+    },
+    "Massachusetts Institute of Technology": {
+        "latitude": "42.3582529",
+        "longitude": "-71.0966272"
+    },
+    "Arizona State University": {
+        "latitude": "33.4213174",
+        "longitude": "-111.9331593"
+    },
+    "Washington State University": {
+        "latitude": "46.7337724",
+        "longitude": "-117.1497607"
+    },
+    "University of Pittsburgh": {
+        "latitude": "40.444153",
+        "longitude": "-79.962461"
+    },
+    "University of Massachusetts Amherst": {
+        "latitude": "42.3869382",
+        "longitude": "-72.5299148"
+    },
+    "University of Texas at Austin": {
+        "latitude": "30.2852198",
+        "longitude": "-97.7338927"
+    },
+    "DePaul University": {
+        "latitude": "41.92402",
+        "longitude": "-87.6547273"
+    },
+    "California Institute of Technology": {
+        "latitude": "34.1370138",
+        "longitude": "-118.1252882"
+    },
+    "University of Delaware": {
+        "latitude": "39.6803338",
+        "longitude": "-75.7530749"
+    },
+    "University of Louisville": {
+        "latitude": "38.2133223",
+        "longitude": "-85.7577075"
+    },
+    "Univ. of California - Irvine": {
+        "latitude": "33.6431901",
+        "longitude": "-117.8401649"
+    },
+    "University of Utah": {
+        "latitude": "40.7628137",
+        "longitude": "-111.8368719"
+    },
+    "Univ. of California - Berkeley": {
+        "latitude": "37.8686579",
+        "longitude": "-122.2559343"
+    },
+    "Univ. of California - Davis": {
+        "latitude": "38.5217429",
+        "longitude": "-121.7522494"
+    },
+    "Binghamton University": {
+        "latitude": "42.0877998",
+        "longitude": "-75.9706607"
+    },
+    "University of Wisconsin - Milwaukee": {
+        "latitude": "43.0779798",
+        "longitude": "-87.8818237"
+    },
+    "Virginia Tech": {
+        "latitude": "37.2219268",
+        "longitude": "-80.4272818"
+    },
+    "Stevens Institute of Technology": {
+        "latitude": "40.7448096",
+        "longitude": "-74.0252392"
+    },
+    "University of South Florida": {
+        "latitude": "28.0599999",
+        "longitude": "-82.4138362"
+    },
+    "Rochester Institute of Technology": {
+        "latitude": "43.0824883",
+        "longitude": "-77.672911"
+    },
+    "College of William and Mary": {
+        "latitude": "37.2690846",
+        "longitude": "-76.7227369"
+    },
+    "West Virginia University": {
+        "latitude": "39.634715",
+        "longitude": "-79.9542536"
+    },
+    "Northwestern University": {
+        "latitude": "42.0551164",
+        "longitude": "-87.6758111"
+    },
+    "Univ. of California - Riverside": {
+        "latitude": "33.9637058",
+        "longitude": "-117.3397807"
+    },
+    "UNC - Charlotte": {
+        "latitude": "35.3107104",
+        "longitude": "-80.745231"
+    },
+    "Purdue University": {
+        "latitude": "40.4300272",
+        "longitude": "-86.9264179"
+    },
+    "Univ. of California - Merced": {
+        "latitude": "37.3651866",
+        "longitude": "-120.4227304"
+    },
+    "University at Buffalo": {
+        "latitude": "43.0007502",
+        "longitude": "-78.7887138"
+    },
+    "The University of Alabama": {
+        "latitude": "33.20944",
+        "longitude": "-87.54149"
+    },
+    "University of Virginia": {
+        "latitude": "38.0410576",
+        "longitude": "-78.5054996"
+    },
+    "University of Southern California": {
+        "latitude": "34.0218833",
+        "longitude": "-118.2858666"
+    },
+    "Western Michigan University": {
+        "latitude": "42.2833375",
+        "longitude": "-85.6095067"
+    },
+    "University of Nevada Las Vegas": {
+        "latitude": "36.0994481",
+        "longitude": "-115.1442205"
+    },
+    "Rice University": {
+        "latitude": "29.7167915",
+        "longitude": "-95.4047811"
+    },
+    "Auburn University": {
+        "latitude": "32.5919877",
+        "longitude": "-85.4959487"
+    },
+    "University of Michigan": {
+        "latitude": "42.2942142",
+        "longitude": "-83.7100389"
+    },
+    "University of Vermont": {
+        "latitude": "44.4737365",
+        "longitude": "-73.1941468"
+    },
+    "Air Force Institute of Technology": {
+        "latitude": "39.7823735",
+        "longitude": "-84.0825729"
+    },
+    "Oregon State University": {
+        "latitude": "44.5630559",
+        "longitude": "-123.2839236"
+    },
+    "University of Alabama - Birmingham": {
+        "latitude": "33.5016153",
+        "longitude": "-86.8060476"
+    },
+    "University of Houston": {
+        "latitude": "29.7207902",
+        "longitude": "-95.3440627"
+    },
+    "Virginia Commonwealth University": {
+        "latitude": "37.5461246",
+        "longitude": "-77.4540609"
+    },
+    "University of Wisconsin - Madison": {
+        "latitude": "43.0802745",
+        "longitude": "-89.4309587"
+    },
+    "Dartmouth College": {
+        "latitude": "43.7052673",
+        "longitude": "-72.2905229"
+    },
+    "North Carolina State University": {
+        "latitude": "35.7714749",
+        "longitude": "-78.6741935"
+    },
+    "Indiana University": {
+        "latitude": "41.7045677",
+        "longitude": "-86.2382203"
+    },
+    "University of Kansas": {
+        "latitude": "38.9534918",
+        "longitude": "-95.2630888"
+    },
+    "Emory University": {
+        "latitude": "33.8004546",
+        "longitude": "-84.3172378"
+    },
+    "Georgia State University": {
+        "latitude": "33.7535889",
+        "longitude": "-84.3854209"
+    },
+    "Georgetown University": {
+        "latitude": "38.9089393",
+        "longitude": "-77.0745796"
+    },
+    "Clemson University": {
+        "latitude": "34.6686915",
+        "longitude": "-82.8374348"
+    },
+    "OHSU": {
+        "latitude": "45.5193878",
+        "longitude": "-122.9781992"
+    },
+    "Towson University": {
+        "latitude": "39.3896391",
+        "longitude": "-76.6158847"
+    },
+    "University of Arkansas": {
+        "latitude": "36.0935238",
+        "longitude": "-94.1770898"
+    },
+    "University of North Carolina": {
+        "latitude": "35.9050353",
+        "longitude": "-79.0477533"
+    },
+    "Columbia University": {
+        "latitude": "40.8176657",
+        "longitude": "-73.9585144"
+    },
+    "NJIT": {
+        "latitude": "40.7426187",
+        "longitude": "-74.1810968"
+    },
+    "University of Cincinnati": {
+        "latitude": "39.1318613",
+        "longitude": "-84.515762"
+    },
+    "Michigan Technological University": {
+        "latitude": "47.1099114",
+        "longitude": "-88.5511513"
+    },
+    "University of Texas at San Antonio": {
+        "latitude": "29.583331",
+        "longitude": "-98.6194451"
+    },
+    "Drexel University": {
+        "latitude": "39.9574",
+        "longitude": "-75.1902666"
+    },
+    "University of Nevada": {
+        "latitude": "36.0994481",
+        "longitude": "-115.1442205"
+    },
+    "New York University": {
+        "latitude": "40.7292532",
+        "longitude": "-73.9962539"
+    },
+    "University of Oregon": {
+        "latitude": "44.0445515",
+        "longitude": "-123.071736"
+    },
+    "Stony Brook University": {
+        "latitude": "40.9098832",
+        "longitude": "-73.1215495"
+    },
+    "University of Texas at Arlington": {
+        "latitude": "32.7284713",
+        "longitude": "-97.1120213"
+    },
+    "University of Arizona": {
+        "latitude": "33.4520517",
+        "longitude": "-112.0636789"
+    },
+    "Tufts University": {
+        "latitude": "42.4064913",
+        "longitude": "-71.1180073"
+    },
+    "University of Tennessee": {
+        "latitude": "35.9516352",
+        "longitude": "-83.9308819"
+    },
+    "Brigham Young University": {
+        "latitude": "40.2550111",
+        "longitude": "-111.6496826"
+    },
+    "Univ. of California - Santa Barbara": {
+        "latitude": "34.4146025",
+        "longitude": "-119.84581"
+    },
+    "Portland State University": {
+        "latitude": "45.5118121",
+        "longitude": "-122.68493"
+    },
+    "University of Southern Mississippi": {
+        "latitude": "31.3286452",
+        "longitude": "-89.3367312"
+    },
+    "University of Louisiana - Lafayette": {
+        "latitude": "30.21929",
+        "longitude": "-92.041383"
+    },
+    "Boise State University": {
+        "latitude": "43.6041412",
+        "longitude": "-116.2033059"
+    },
+    "University of South Carolina": {
+        "latitude": "33.9970244",
+        "longitude": "-81.0272443"
+    },
+    "University of Wyoming": {
+        "latitude": "41.3142264",
+        "longitude": "-105.5643232"
+    },
+    "Brown University": {
+        "latitude": "41.8186395",
+        "longitude": "-71.4088009"
+    },
+    "University of Oklahoma": {
+        "latitude": "35.1959878",
+        "longitude": "-97.4457083"
+    },
+    "Case Western Reserve University": {
+        "latitude": "41.5013869",
+        "longitude": "-81.6007022"
+    },
+    "Florida State University": {
+        "latitude": "30.44236",
+        "longitude": "-84.2974787"
+    },
+    "Rensselaer Polytechnic Institute": {
+        "latitude": "42.729922",
+        "longitude": "-73.6795398"
+    },
+    "Cleveland State University": {
+        "latitude": "41.5021445",
+        "longitude": "-81.675167"
+    },
+    "Louisiana State University": {
+        "latitude": "30.4057618",
+        "longitude": "-91.1859745"
+    },
+    "University of Texas at Dallas": {
+        "latitude": "32.9875855",
+        "longitude": "-96.7497693"
+    },
+    "Syracuse University": {
+        "latitude": "43.0171129",
+        "longitude": "-76.1185536"
+    },
+    "IUPUI": {
+        "latitude": "39.7742011",
+        "longitude": "-86.1750011"
+    },
+    "Claremont Graduate University": {
+        "latitude": "34.1103852",
+        "longitude": "-117.7175884"
+    },
+    "Ohio State University": {
+        "latitude": "40.7988105",
+        "longitude": "-82.5782294"
+    },
+    "Old Dominion University": {
+        "latitude": "36.8862699",
+        "longitude": "-76.3097248"
+    },
+    "Temple University": {
+        "latitude": "39.981188",
+        "longitude": "-75.1562828"
+    },
+    "Mississippi State University": {
+        "latitude": "33.4386876",
+        "longitude": "-88.7943232"
+    },
+    "Kent State University": {
+        "latitude": "41.1443582",
+        "longitude": "-81.3398299"
+    },
+    "University of Massachusetts Lowell": {
+        "latitude": "42.6519097",
+        "longitude": "-71.3173628"
+    },
+    "University of Texas - El Paso": {
+        "latitude": "31.7757047",
+        "longitude": "-106.5062875"
+    },
+    "Texas State University": {
+        "latitude": "29.8910941",
+        "longitude": "-97.9376839"
+    },
+    "University of Denver": {
+        "latitude": "39.6783136",
+        "longitude": "-104.9625092"
+    },
+    "University of Hawaii at Manoa": {
+        "latitude": "21.2982795",
+        "longitude": "-157.8186936"
+    },
+    "Brandeis University": {
+        "latitude": "42.3665095",
+        "longitude": "-71.2580196"
+    },
+    "Oakland University": {
+        "latitude": "42.6666333",
+        "longitude": "-83.2065575"
+    },
+    "University of Michigan-Dearborn": {
+        "latitude": "42.3172294",
+        "longitude": "-83.2319394"
+    },
+    "Lehigh University": {
+        "latitude": "40.6068028",
+        "longitude": "-75.3782488"
+    },
+    "University of Missouri - Kansas City": {
+        "latitude": "39.0336761",
+        "longitude": "-94.5780753"
+    },
+    "Indiana State University": {
+        "latitude": "39.4703727",
+        "longitude": "-87.4081968"
+    },
+    "Missouri S&T": {
+        "latitude": "37.952894",
+        "longitude": "-91.773858"
+    },
+    "Harvard University": {
+        "latitude": "42.3679086",
+        "longitude": "-71.1267824"
+    },
+    "Naval Postgraduate School": {
+        "latitude": "36.596924",
+        "longitude": "-121.8732706"
+    },
+    "University of Nebraska": {
+        "latitude": "40.8229219",
+        "longitude": "-96.7040584"
+    },
+    "University of North Texas": {
+        "latitude": "33.2098926",
+        "longitude": "-97.1514762"
+    },
+    "Tulane University": {
+        "latitude": "29.9412195",
+        "longitude": "-90.1201009"
+    },
+    "Kansas State University": {
+        "latitude": "39.20883",
+        "longitude": "-96.5884512"
+    },
+    "Ohio University": {
+        "latitude": "39.3230041",
+        "longitude": "-82.1026768"
+    },
+    "TTI Chicago": {
+        "latitude": "41.85003",
+        "longitude": "-87.65005"
+    },
+    "University of Idaho": {
+        "latitude": "46.7237978",
+        "longitude": "-117.020439"
+    },
+    "University of Nebraska - Omaha": {
+        "latitude": "41.2577933",
+        "longitude": "-96.0104971"
+    },
+    "Louisiana Tech University": {
+        "latitude": "32.5264824",
+        "longitude": "-92.6478196"
+    },
+    "Worcester Polytechnic Institute": {
+        "latitude": "42.274315",
+        "longitude": "-71.8084567"
+    },
+    "University of Massachusetts Boston": {
+        "latitude": "42.314068",
+        "longitude": "-71.0387132"
+    },
+    "New Mexico State University": {
+        "latitude": "32.2729032",
+        "longitude": "-106.7434927"
+    },
+    "Colorado School of Mines": {
+        "latitude": "39.7386338",
+        "longitude": "-105.2246389"
+    },
+    "Baylor University": {
+        "latitude": "31.550434",
+        "longitude": "-97.1102906"
+    },
+    "Illinois Institute of Technology": {
+        "latitude": "41.8352554",
+        "longitude": "-87.6264362"
+    },
+    "Montana State University": {
+        "latitude": "45.6638188",
+        "longitude": "-111.0793057"
+    },
+    "University of Colorado - Denver": {
+        "latitude": "39.7428324",
+        "longitude": "-105.0059152"
+    },
+    "University of Tulsa": {
+        "latitude": "36.1523306",
+        "longitude": "-95.9459602"
+    },
+    "Missouri University of Technology": {
+        "latitude": "37.952894",
+        "longitude": "-91.773858"
+    },
+    "University of Miami": {
+        "latitude": "25.7172724",
+        "longitude": "-80.2787069"
+    },
+    "University of Mississippi": {
+        "latitude": "34.3646125",
+        "longitude": "-89.5396349"
+    },
+    "Nova Southeastern University": {
+        "latitude": "26.0806806",
+        "longitude": "-80.2505161"
+    },
+    "University of Georgia": {
+        "latitude": "33.9404278",
+        "longitude": "-83.373049"
+    },
+    "University of Missouri": {
+        "latitude": "38.9364147",
+        "longitude": "-92.329703"
+    },
+    "University of Arkansas - Little Rock": {
+        "latitude": "34.7482467",
+        "longitude": "-92.3198889"
+    },
+    "LIU Post": {
+        "latitude": "53.9592562",
+        "longitude": "-166.5918139"
+    },
+    "UNC - Greensboro": {
+        "latitude": "36.0679595",
+        "longitude": "-79.8103669"
+    },
+    "University of New Hampshire": {
+        "latitude": "43.1382653",
+        "longitude": "-70.9323817"
+    },
+    "Utah State University": {
+        "latitude": "41.7527021",
+        "longitude": "-111.8087342"
+    },
+    "Southern Methodist University": {
+        "latitude": "32.8418011",
+        "longitude": "-96.7815281"
+    },
+    "University of Alabama - Huntsville": {
+        "latitude": "34.7249108",
+        "longitude": "-86.640491"
+    },
+    "Florida Institute of Technology": {
+        "latitude": "28.064271",
+        "longitude": "-80.623004"
+    },
+    "North Dakota State University": {
+        "latitude": "46.897155",
+        "longitude": "-96.8182654"
+    },
+    "University of Memphis": {
+        "latitude": "35.1189387",
+        "longitude": "-89.9372196"
+    },
+    "Boston College": {
+        "latitude": "42.3354481",
+        "longitude": "-71.1681386"
+    },
+    "University of Maine": {
+        "latitude": "44.8991352",
+        "longitude": "-68.6663746"
+    }]
+}

@@ -1,0 +1,32 @@
+.window{
+  display: flex;
+  flex-direction: column;
+}
+
+.checkbox{
+  display: flex;
+  flex-direction: column;
+}
+
+.label{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 10px;
+  font-size: 18px;
+  width: fit-content;
+}
+
+h4{
+  margin: 0;
+  padding: 0;
+  color: #aeacac;
+}
+
+h4:first-of-type{
+margin-top: 20px;
+}
+
+h4 a{
+  color: #808080;
+}
